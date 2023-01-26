@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @benbasuni1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> Hi, I'm Ben Basuni <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Engineer</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
 
-<!---
-benbasuni1/benbasuni1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### A little more about me...  
+
+```javascript
+const ben = {
+  countries  : [🇮🇩,🇳🇱,🇩🇪,🇧🇪,🇸🇬,🇹🇼,🇹🇭.🇨🇷,🇨🇳]
+  plans      : [🇮🇹,🇯🇵]
+}
+```
+
+---
